@@ -1,0 +1,34 @@
+[
+    { "id": 1, "title": "Gold Plated Necklace", "price": 3499, "image": "../public/assets/gold-plated-necklace.jpg", "category": "Jewelry", "rating": { "rate": 4.6, "count": 128 } },
+    { "id": 2, "title": "Silver Bracelet", "price": 1299, "image": "../public/assets/silver-bracelet.jpg", "category": "Jewelry", "rating": { "rate": 4.2, "count": 64 } },
+    { "id": 3, "title": "Kundan Earrings", "price": 1899, "image": "../public/assets/kundan-earrings.jpg", "category": "Jewelry", "rating": { "rate": 4.5, "count": 90 } },
+  
+    { "id": 4, "title": "Silk Saree - Banarasi", "price": 8999, "image": "../public/assets/silk-saree-banarasi.jpg", "category": "Apparel", "rating": { "rate": 4.8, "count": 210 } },
+    { "id": 5, "title": "Cotton Kurta - Handloom", "price": 1499, "image": "../public/assets/cotton-kurta-handloom.webp", "category": "Apparel", "rating": { "rate": 4.1, "count": 77 } },
+    { "id": 6, "title": "Pashmina Shawl", "price": 5499, "image": "../public/assets/pashmina-shawl.jpg", "category": "Apparel", "rating": { "rate": 4.7, "count": 132 } },
+  
+    { "id": 7, "title": "Kolhapuri Chappals", "price": 1199, "image": "../public/assets/kolhapuri-chappal.jpg", "category": "Footwear", "rating": { "rate": 4.3, "count": 58 } },
+    { "id": 8, "title": "Leather Mojaris", "price": 1999, "image": "../public/assets/leather-mojari.jpg", "category": "Footwear", "rating": { "rate": 4.0, "count": 42 } },
+    { "id": 9, "title": "Handcrafted Sandals", "price": 1599, "image": "../public/assets/hand-crafted-sandals.jpg", "category": "Footwear", "rating": { "rate": 4.1, "count": 36 } },
+  
+    { "id": 10, "title": "Brass Oil Lamp (Diya)", "price": 999, "image": "../public/assets/brass-oil-lamp.jpg", "category": "Home Decor", "rating": { "rate": 4.6, "count": 180 } },
+    { "id": 11, "title": "Hand-painted Vase", "price": 2499, "image": "../public/assets/hand-painted-vase.jpg", "category": "Home Decor", "rating": { "rate": 4.4, "count": 95 } },
+    { "id": 12, "title": "Wooden Wall Art", "price": 1799, "image": "../public/assets/wooden-wall-art.jpg", "category": "Home Decor", "rating": { "rate": 4.2, "count": 72 } },
+  
+    { "id": 13, "title": "Terracotta Planter", "price": 799, "image": "../public/assets/terracotta-planters.jpg", "category": "Home Decor", "rating": { "rate": 4.0, "count": 40 } },
+    { "id": 14, "title": "Handloom Cotton Bedsheet", "price": 2199, "image": "../public/assets/handloom-cotton-bedsheet.jpg", "category": "Home Decor", "rating": { "rate": 4.3, "count": 85 } },
+    { "id": 15, "title": "Brass Ganesh Idol", "price": 3299, "image": "../public/assets/brass-ganesh-idol.jpg", "category": "Home Decor", "rating": { "rate": 4.7, "count": 160 } },
+  
+    { "id": 16, "title": "Leather Wallet", "price": 999, "image": "../public/assets/leather-wallet.jpg", "category": "Accessories", "rating": { "rate": 4.1, "count": 70 } },
+    { "id": 17, "title": "Canvas Tote Bag", "price": 699, "image": "../public/assets/canvas-tote-bag.jpg", "category": "Accessories", "rating": { "rate": 3.9, "count": 33 } },
+    { "id": 18, "title": "Handcrafted Belt", "price": 1299, "image": "../public/assets/hand-crafted-belt.webp", "category": "Accessories", "rating": { "rate": 4.2, "count": 48 } },
+  
+    { "id": 19, "title": "Copper Water Bottle", "price": 1499, "image": "../public/assets/copper-water-bottle.jpg", "category": "Home & Kitchen", "rating": { "rate": 4.5, "count": 110 } },
+    { "id": 20, "title": "Clay Tea Set", "price": 1799, "image": "../public/assets/clay-tea-set.jpg", "category": "Home & Kitchen", "rating": { "rate": 4.2, "count": 66 } },
+    { "id": 21, "title": "Bamboo Serving Tray", "price": 899, "image": "../public/assets/bamboo-serving-tray.webp", "category": "Home & Kitchen", "rating": { "rate": 4.1, "count": 0 } },
+  
+    { "id": 22, "title": "Jute Table Runner", "price": 999, "image": "../public/assets/jute-table-runner.jpg", "category": "Home Decor", "rating": { "rate": 4.0, "count": 39 } },
+    { "id": 23, "title": "Silk Pocket Square", "price": 499, "image": "../public/assets/silk-pocket-square.jpg", "category": "Accessories", "rating": { "rate": 3.8, "count": 28 } },
+    { "id": 24, "title": "Handwoven Stole", "price": 1299, "image": "../public/assets/handwoven-stole.jpg", "category": "Apparel", "rating": { "rate": 4.3, "count": 51 } }
+  ]
+  
